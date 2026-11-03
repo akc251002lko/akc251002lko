@@ -2,166 +2,81 @@
 
 # Arun Kumar
 
-### Independent Developer | Aspiring Cybersecurity Professional
+### Independent Developer · Python & Cybersecurity Learner
 
-Software Development · Python · Cybersecurity · Technical Exploration
+Building practical developer tools, learning software engineering, and exploring defensive cybersecurity.
 
-[GitHub Profile](https://github.com/akc251002lko)
+[![GitHub](https://img.shields.io/badge/GitHub-akc251002lko-181717?logo=github)](https://github.com/akc251002lko)
+[![Python](https://img.shields.io/badge/Python-Standard%20Library-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Focus](https://img.shields.io/badge/Focus-Developer%20Tools%20%26%20Security-0A7B83)](#technical-focus)
 
 </div>
 
 ---
 
-## Professional Introduction
+## About
 
-I am Arun Kumar, an independent learner and aspiring software developer based in Lucknow, Uttar Pradesh, India.
+I am an independent learner and aspiring software developer from Uttar Pradesh, India. My formal education is in the Arts stream, while my technical learning is self-directed through documentation, experimentation, and project-based practice.
 
-I hold a Bachelor's degree in the Arts stream. Although my original ambition was to pursue software engineering through a traditional engineering degree, financial circumstances led me towards a different academic path.
+My long-term goal is to build a career in technology, strengthen my software engineering foundations, and specialise in cybersecurity. I value clear reasoning, maintainable implementation, careful testing, and honest documentation.
 
-Nevertheless, my interest in technology and software development has remained a consistent ambition.
+I currently develop from an Android smartphone, using mobile-friendly tools and GitHub workflows to build and maintain projects.
 
-I pursue technical knowledge through independent study, online resources, experimentation, and practical development. My approach focuses on transforming ideas into functional applications while progressively strengthening my understanding of programming and software engineering.
+## Featured projects
 
-My long-term professional objective is to develop expertise in cybersecurity and establish a career in the technology sector.
+| Project | What it does | Engineering focus |
+|---|---|---|
+| [repo-health-cli](https://github.com/akc251002lko/repo-health-cli) | Audits GitHub repository structure and reports health findings. | Python, GitHub REST API, repository quality |
+| [maint-triage-cli](https://github.com/akc251002lko/maint-triage-cli) | Identifies maintenance work across issues and pull requests. | Python, API pagination, maintenance intelligence |
 
-## Technical Competencies
+*Project capabilities are described by their current repository documentation; improvements are developed and validated through their respective branches and CI workflows.*
 
-| Technology | Current Proficiency |
-|---|---|
-| HTML | Intermediate |
-| Python | Foundational |
-| Git | Foundational |
-| GitHub | Practical experience |
-| Termux | Current development environment |
+## Technical focus
 
-### Python Fundamentals
+- **Python:** foundational and actively developing; standard-library scripting and CLI projects.
+- **HTML:** intermediate.
+- **Git and GitHub:** practical repository, branch, commit, and Actions workflows.
+- **Development:** command-line tools, automation, API integration, testing, and documentation.
+- **Learning next:** networking, Linux and operating systems, secure coding, and defensive cybersecurity.
 
-My current Python knowledge includes:
+I aim to describe my skills accurately and let working code, tests, and project history demonstrate progress.
 
-- Basic syntax and data types
-- Variables and expressions
-- Conditional statements
-- Loops and iteration
-- Functions
+## Engineering principles
 
-I am continuously expanding these foundations through practical learning and development.
+- **Security by default:** protect credentials, minimise permissions, and handle untrusted input carefully.
+- **Reliability:** validate inputs, handle expected failures, and test edge cases.
+- **Maintainability:** prefer readable standard-library solutions and clear interfaces.
+- **Transparency:** document limitations and distinguish verified results from future plans.
+- **Continuous learning:** use each project to strengthen independent technical understanding.
 
-## Areas of Interest
+## Development environment
 
-My primary technical interests include:
-
-- Software engineering and application development
-- Python programming
-- Cybersecurity and information security
-- Command-line applications and developer utilities
-- Software automation
-- APIs and system integrations
-- Computer science fundamentals
-- Logical reasoning and problem-solving
-
-Cybersecurity is my principal long-term area of specialisation.
-
-## Development Approach
-
-My development approach combines independent thinking, experimentation, and AI-assisted implementation.
-
-The principles guiding my work include:
-
-**Independent Problem-Solving**
-
-I prefer analysing problems, exploring possible solutions, and developing ideas through independent reasoning.
-
-**Logical Thinking**
-
-I value understanding underlying concepts, system behaviour, and logical relationships rather than relying exclusively on memorisation.
-
-**Practical Experimentation**
-
-I use software projects and technical experiments as opportunities to explore concepts and develop practical knowledge.
-
-**Continuous Improvement**
-
-I consider testing, debugging, documentation, and iterative refinement essential parts of software development.
-
-**Technical Growth**
-
-I aim to progressively improve my programming knowledge, engineering practices, and ability to develop software with greater independence.
-
-## AI-Assisted Learning and Development
-
-Artificial intelligence plays a significant role in my current learning and development process.
-
-I would particularly like to acknowledge **OpenAI and ChatGPT**, which serve as my primary AI learning and development assistant.
-
-ChatGPT has helped me explore programming concepts, understand technical subjects, evaluate ideas, troubleshoot problems, and translate concepts into functional software.
-
-Given my self-directed learning journey and limited access to traditional development resources, ChatGPT has become an important part of my technical education and practical experimentation.
-
-My approach to AI-assisted development is based on the following distinction:
-
-- **Ideas and direction:** Project concepts, problem identification, functional requirements, and creative direction originate from my own thinking and imagination.
-- **AI assistance:** ChatGPT assists with technical explanations, implementation, code generation, debugging, testing, and refinement.
-- **Learning objective:** I use the development process to improve my understanding and progressively strengthen my independent technical capabilities.
-
-I believe AI can be a powerful learning and development resource when used thoughtfully and responsibly.
-
-**Acknowledgement:** My appreciation goes to OpenAI for developing ChatGPT and making an important contribution to my self-directed technical learning and development journey.
-
-## Development Environment
-
-My current development environment is based on an Android smartphone.
-
-| Component | Current Setup |
+| Area | Current setup |
 |---|---|
 | Primary device | Android smartphone |
-| Development environment | Termux |
+| Command-line environment | Termux |
 | Version control | Git |
-| Code hosting | GitHub |
-| AI learning and development assistant | OpenAI ChatGPT |
+| Source hosting and CI | GitHub and GitHub Actions |
+| Learning and development support | Technical documentation and AI-assisted learning |
 
-Working within a mobile development environment has encouraged me to explore practical alternatives and make effective use of the resources available to me.
+## Current learning roadmap
 
-One of my future objectives is to acquire a suitable computer and establish a more capable development environment.
+1. Strengthen Python, data structures, testing, and debugging.
+2. Improve software design and API integration skills.
+3. Build foundations in computer networks and Linux.
+4. Study secure coding and defensive security practices.
+5. Expand project quality through automation, documentation, and reproducible tests.
 
-## Learning and Professional Development
+## Collaboration
 
-My current learning priorities are:
-
-1. Strengthening Python programming fundamentals.
-2. Developing a deeper understanding of software engineering.
-3. Studying computer science fundamentals.
-4. Learning computer networking and communication protocols.
-5. Exploring operating systems and system administration.
-6. Building foundational knowledge of cybersecurity.
-7. Studying security concepts and practical defensive techniques.
-8. Developing the technical capabilities required for a professional career in technology.
-
-## Personal Interests
-
-Beyond technology, my interests include mathematics, logical problem-solving, video games, music, running, walking, and independent experimentation.
-
-Mathematics is particularly interesting to me because of its emphasis on logic, structure, and analytical thinking.
-
-## Professional Objective
-
-My objective is to build a strong technical foundation through continuous learning and practical development, progress towards a career in software engineering, and eventually specialise in cybersecurity.
-
-I intend to continue developing my technical capabilities, exploring new technologies, and creating useful software.
+I welcome constructive feedback, practical suggestions, and opportunities to learn from well-engineered open-source projects.
 
 ---
 
 <div align="center">
 
-**Arun Kumar**
+**Curiosity → Learning → Building → Improving**
 
-Independent Developer | Aspiring Cybersecurity Professional
-
-[GitHub](https://github.com/akc251002lko)
-
----
-
-*Driven by curiosity. Guided by logic. Focused on continuous improvement.*
-
-<sub>© 2026 Arun Kumar</sub>
+<sub>Maintained by Arun Kumar · © 2026</sub>
 
 </div>
