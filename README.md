@@ -14,6 +14,17 @@ Building practical developer tools, learning software engineering, and exploring
 
 ---
 
+## What This Repository Is For
+
+This repository is the public GitHub profile README. It introduces my technical interests, current learning focus, engineering principles, and selected projects. It is intended to help visitors understand the work linked from this profile; it is not an installable software project.
+
+## How to Navigate This Profile
+
+- Read **About** for background and current development approach.
+- Review **Featured projects** to open the individual project repositories and their usage instructions.
+- See **Technical focus** and **Current learning roadmap** for current skills and learning priorities.
+- Use each featured project's own README for setup, configuration, commands, requirements, and limitations.
+
 ## About
 
 I am an independent learner and aspiring software developer from Uttar Pradesh, India. My formal education is in the Arts stream, while my technical learning is self-directed through documentation, experimentation, and project-based practice.
