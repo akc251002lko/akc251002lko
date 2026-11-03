@@ -6,6 +6,17 @@ This changelog tracks changes to the profile repository itself, not the release 
 
 The format is intended to remain simple and understandable.
 
+## [1.1.0] - 2026-11-03
+
+### Changed
+
+- Reworked the profile landing page into a concise project-focused portfolio.
+- Added featured project links for Repo Health CLI and Maintainer Triage CLI.
+- Clarified current technical skills, mobile development environment, and learning roadmap.
+- Avoided unsupported experience claims and unverified achievement metrics.
+
+---
+
 ## [1.0.0] - 2026-11-02
 
 ### Added
