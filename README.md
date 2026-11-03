@@ -92,3 +92,7 @@ I welcome constructive feedback, practical suggestions, and opportunities to lea
 <sub>Maintained by Arun Kumar · © 2026</sub>
 
 </div>
+
+## Community & Updates
+
+Join the [Telegram community](https://t.me/githubakc251002lko) for the latest project updates, announcements, discussions, collaboration, and more.
