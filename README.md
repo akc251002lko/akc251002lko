@@ -93,6 +93,6 @@ I welcome constructive feedback, practical suggestions, and opportunities to lea
 
 </div>
 
-## Community & Updates
+## Community
 
-Join the [Telegram community](https://t.me/githubakc251002lko) for the latest project updates, announcements, discussions, collaboration, and more.
+For project announcements, repository updates, technical discussions, questions, and collaboration, visit the [official Telegram channel](https://t.me/githubakc251002lko).
