@@ -86,10 +86,6 @@ I aim to describe my skills accurately and let working code, tests, and project 
 
 I welcome constructive feedback, practical suggestions, and opportunities to learn from well-engineered open-source projects.
 
-## Community & Support
-
-For official project announcements, release and repository updates, technical discussions, questions, and collaboration, join the [Telegram community](https://t.me/githubakc251002lko).
-
 ---
 
 <div align="center">
