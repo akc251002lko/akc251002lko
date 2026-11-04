@@ -40,6 +40,7 @@ I currently develop from an Android smartphone, using mobile-friendly tools and 
 | [repo-health-cli](https://github.com/akc251002lko/repo-health-cli) | Audits GitHub repository structure and reports health findings. | Python, GitHub REST API, repository quality |
 | [maint-triage-cli](https://github.com/akc251002lko/maint-triage-cli) | Identifies maintenance work across issues and pull requests. | Python, API pagination, maintenance intelligence |
 | [distributed-job-runner](https://github.com/akc251002lko/distributed-job-runner) | Runs durable background jobs through a multi-tenant API and worker system. | Go, PostgreSQL, leases and retries, rate limiting, observability |
+| [win-deep-cleaner](https://github.com/akc251002lko/win-deep-cleaner) | Safely scans and optionally removes aged files from the current user's Windows temporary directories. | Python, Windows automation, filesystem safety, CLI and GUI |
 
 *Project capabilities are described by their current repository documentation; improvements are developed and validated through their respective branches and CI workflows.*
 
