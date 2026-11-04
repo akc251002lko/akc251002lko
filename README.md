@@ -16,14 +16,12 @@ Building practical developer tools, learning software engineering, and exploring
 
 ## What This Repository Is For
 
-This repository is the public GitHub profile README. It introduces my technical interests, current learning focus, engineering principles, and selected projects. It is intended to help visitors understand the work linked from this profile; it is not an installable software project.
+This repository is the public GitHub profile README. It introduces my technical interests, current learning focus, and engineering principles. It is intended to help visitors understand my development background; it is not an installable software project.
 
 ## How to Navigate This Profile
 
 - Read **About** for background and current development approach.
-- Review **Featured projects** to open the individual project repositories and their usage instructions.
 - See **Technical focus** and **Current learning roadmap** for current skills and learning priorities.
-- Use each featured project's own README for setup, configuration, commands, requirements, and limitations.
 
 ## About
 
@@ -32,19 +30,6 @@ I am an independent learner and aspiring software developer from Uttar Pradesh, 
 My long-term goal is to build a career in technology, strengthen my software engineering foundations, and specialise in cybersecurity. I value clear reasoning, maintainable implementation, careful testing, and honest documentation.
 
 I currently develop from an Android smartphone, using mobile-friendly tools and GitHub workflows to build and maintain projects.
-
-## Featured projects
-
-| Project | What it does | Engineering focus |
-|---|---|---|
-| [repo-health-cli](https://github.com/akc251002lko/repo-health-cli) | Audits GitHub repository structure and reports health findings. | Python, GitHub REST API, repository quality |
-| [maint-triage-cli](https://github.com/akc251002lko/maint-triage-cli) | Identifies maintenance work across issues and pull requests. | Python, API pagination, maintenance intelligence |
-| [distributed-job-runner](https://github.com/akc251002lko/distributed-job-runner) | Runs durable background jobs through a multi-tenant API and worker system. | Go, PostgreSQL, leases and retries, rate limiting, observability |
-| [win-deep-cleaner](https://github.com/akc251002lko/win-deep-cleaner) | Safely scans and optionally removes aged files from the current user's Windows temporary directories. | Python, Windows automation, filesystem safety, CLI and GUI |
-| [win-repair](https://github.com/akc251002lko/win-repair) | Provides conservative Windows diagnostics and built-in system repair operations through a CLI and GUI. | Python, Windows servicing, diagnostics, safe automation |
-| [win-auto-update](https://github.com/akc251002lko/win-auto-update) | Checks applicable Windows updates and installs only explicitly selected updates with confirmation safeguards. | Python, Windows Update Agent, servicing safety, automation |
-
-*Project capabilities are described by their current repository documentation; improvements are developed and validated through their respective branches and CI workflows.*
 
 ## Technical focus
 
