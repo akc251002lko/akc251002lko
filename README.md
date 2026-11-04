@@ -42,6 +42,7 @@ I currently develop from an Android smartphone, using mobile-friendly tools and 
 | [distributed-job-runner](https://github.com/akc251002lko/distributed-job-runner) | Runs durable background jobs through a multi-tenant API and worker system. | Go, PostgreSQL, leases and retries, rate limiting, observability |
 | [win-deep-cleaner](https://github.com/akc251002lko/win-deep-cleaner) | Safely scans and optionally removes aged files from the current user's Windows temporary directories. | Python, Windows automation, filesystem safety, CLI and GUI |
 | [win-repair](https://github.com/akc251002lko/win-repair) | Provides conservative Windows diagnostics and built-in system repair operations through a CLI and GUI. | Python, Windows servicing, diagnostics, safe automation |
+| [win-auto-update](https://github.com/akc251002lko/win-auto-update) | Checks applicable Windows updates and installs only explicitly selected updates with confirmation safeguards. | Python, Windows Update Agent, servicing safety, automation |
 
 *Project capabilities are described by their current repository documentation; improvements are developed and validated through their respective branches and CI workflows.*
 
